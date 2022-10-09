@@ -1,6 +1,6 @@
 #!/bin/bash
 # CamPhish v1.4
-# Powered by Dazzler
+# Powered by AV
 # Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
 
 trap 'printf "\n";stop' 2
